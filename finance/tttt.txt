@@ -1,0 +1,641 @@
+I attained five of cameras for six hundred and eighteen point zero two,insert
+I attained five of consulting for six hundred and eighteen point zero two,insert
+I got seven of tables for six hundred and eighty-nine point six two,insert
+I got seven of coaching for six hundred and eighty-nine point six two,insert
+You collected four of sunglasses for one hundred and fourteen point nine two,insert
+You collected four of tutoring for one hundred and fourteen point nine two,insert
+You obtained four of watches for nine hundred and twenty-five point nine two,insert
+You obtained four of design for nine hundred and twenty-five point nine two,insert
+He obtained ten of cameras for five hundred and seven point six four,insert
+He obtained ten of delivery for five hundred and seven point six four,insert
+He collected two of headphones for two hundred and six point zero six,insert
+He collected two of development for two hundred and six point zero six,insert
+She attained seven of sunglasses for two hundred and forty-one point eight seven,insert
+She attained seven of consulting for two hundred and forty-one point eight seven,insert
+She procured five of laptops for ninety-eight point three seven,insert
+She procured five of tutoring for ninety-eight point three seven,insert
+We procured nine of shoes for fifty-six point seven eight,insert
+We procured nine of development for fifty-six point seven eight,insert
+We attained one of books for two hundred and twenty-one point five eight,insert
+We attained one of maintenance for two hundred and twenty-one point five eight,insert
+They got one of chairs for two hundred and sixty-eight point six,insert
+They got one of delivery for two hundred and sixty-eight point six,insert
+They procured nine of smartphones for sixty-three point eight nine,insert
+They procured nine of consulting for sixty-three point eight nine,insert
+I sold eight of backpacks for three hundred and sixty-six point zero one dinars,insert
+I sold eight of development for three hundred and sixty-six point zero one dinars,insert
+I traded three of books for eight hundred and fifteen point seven one dinars,insert
+I traded three of translation for eight hundred and fifteen point seven one dinars,insert
+You transferred two of watches for five hundred and sixty-nine point seven dinars,insert
+You transferred two of tutoring for five hundred and sixty-nine point seven dinars,insert
+You traded two of cameras for two hundred and forty-eight point four one dinars,insert
+You traded two of training for two hundred and forty-eight point four one dinars,insert
+He marketed eight of pens for nine hundred and fifty-four point eight five dinars,insert
+He marketed eight of cleaning for nine hundred and fifty-four point eight five dinars,insert
+He delivered four of clothes for nine hundred and fifty-six point five eight dinars,insert
+He delivered four of support for nine hundred and fifty-six point five eight dinars,insert
+She dispatched five of books for eight hundred and seventy-five point three nine dinars,insert
+She dispatched five of tutoring for eight hundred and seventy-five point three nine dinars,insert
+She transferred four of backpacks for six hundred and fifty-one point five nine dinars,insert
+She transferred four of cleaning for six hundred and fifty-one point five nine dinars,insert
+We sold two of chairs for six hundred and forty-eight point two three dinars,insert
+We sold two of translation for six hundred and forty-eight point two three dinars,insert
+We supplied one of bicycles for four hundred and twenty-three point four five dinars,insert
+We supplied one of training for four hundred and twenty-three point four five dinars,insert
+They transferred ten of bicycles for one hundred and forty point five five dinars,insert
+They transferred ten of cleaning for one hundred and forty point five five dinars,insert
+They traded five of backpacks for two hundred and five point zero eight dinars,insert
+They traded five of installation for two hundred and five point zero eight dinars,insert
+I gained 7 of laptops for 425.22,insert
+I gained 7 of cleaning for 425.22,insert
+I obtained 8 of clothes for 570.98,insert
+I obtained 8 of cleaning for 570.98,insert
+You obtained 1 of books for 127.6,insert
+You obtained 1 of development for 127.6,insert
+You procured 8 of sunglasses for 167.51,insert
+You procured 8 of installation for 167.51,insert
+He secured 8 of watches for 525.8,insert
+He secured 8 of maintenance for 525.8,insert
+He gained 10 of books for 556.73,insert
+He gained 10 of training for 556.73,insert
+She bought 3 of laptops for 37.51,insert
+She bought 3 of delivery for 37.51,insert
+She obtained 9 of chairs for 621.34,insert
+She obtained 9 of training for 621.34,insert
+We secured 4 of cameras for 564.6,insert
+We secured 4 of tutoring for 564.6,insert
+We acquired 8 of headphones for 774.39,insert
+We acquired 8 of translation for 774.39,insert
+They attained 7 of watches for 189.07,insert
+They attained 7 of repair for 189.07,insert
+They secured 2 of watches for 438.72,insert
+They secured 2 of consulting for 438.72,insert
+I dispatched 6 of tables for 274.39 dinars,insert
+I dispatched 6 of customization for 274.39 dinars,insert
+I traded 3 of tables for 837.02 dinars,insert
+I traded 3 of delivery for 837.02 dinars,insert
+You bargained 2 of backpacks for 42.96 dinars,insert
+You bargained 2 of maintenance for 42.96 dinars,insert
+You shipped 7 of bicycles for 843.58 dinars,insert
+You shipped 7 of development for 843.58 dinars,insert
+He traded 8 of headphones for 776.07 dinars,insert
+He traded 8 of consulting for 776.07 dinars,insert
+He shipped 7 of shoes for 223.65 dinars,insert
+He shipped 7 of consulting for 223.65 dinars,insert
+She bargained 4 of smartphones for 514.07 dinars,insert
+She bargained 4 of maintenance for 514.07 dinars,insert
+She supplied 9 of books for 120.72 dinars,insert
+She supplied 9 of repair for 120.72 dinars,insert
+We exchanged 6 of clothes for 332.18 dinars,insert
+We exchanged 6 of consulting for 332.18 dinars,insert
+We marketed 5 of pens for 816.25 dinars,insert
+We marketed 5 of design for 816.25 dinars,insert
+They exchanged 10 of smartphones for 724.17 dinars,insert
+They exchanged 10 of repair for 724.17 dinars,insert
+They dispatched 7 of laptops for 753.88 dinars,insert
+They dispatched 7 of maintenance for 753.88 dinars,insert
+What was the cash flow for the business from 06 07 2014 to 06 07 2014?,cash_flow
+How did the cash flow change from 16 09 2016 to 16 09 2016?,cash_flow
+What's the cash flow for the company from 01 05 2015 to 01 05 2015?,cash_flow
+What were the changes in cash flow between 31 03 2021 and 31 03 2021?,cash_flow
+What was the total cash flow for the department from 06 03 2021 to 06 03 2021?,cash_flow
+Can you analyze the cash flow from 19 03 2010 to 19 03 2010?,cash_flow
+How did our cash flow vary between 07 10 2015 and 07 10 2015?,cash_flow
+What was the impact on cash flow from 14 11 2022 to 14 11 2022?,cash_flow
+What were the cash flow trends from 02 07 2010 to 02 07 2010?,cash_flow
+How did the cash inflow change from 07 07 2016 to 07 07 2016?,cash_flow
+What was the cash outflow for the company from 18 04 2019 to 18 04 2019?,cash_flow
+What was the effect on cash flow between 06 04 2022 and 06 04 2022?,cash_flow
+Can you report the cash flow for the period from 14 04 2017 to 14 04 2017?,cash_flow
+What’s the summarized cash flow from 28 05 2020 to 28 05 2020?,cash_flow
+How did the cash flow change from 12 09 2012 to 12 09 2012?,cash_flow
+What was the quarterly cash flow from 13 01 2013 to 13 01 2013?,cash_flow
+What were the cash flow activities from 03 01 2017 to 03 01 2017?,cash_flow
+Analyze the changes in cash flow from 14 08 2012 to 14 08 2012?,cash_flow
+Report the cash flow for the business activities between 25 10 2010 and 25 10 2010?,cash_flow
+What were the financial changes in cash flow from 23 11 2017 to 23 11 2017?,cash_flow
+How did operational cash flow evolve from 11 06 2016 to 11 06 2016?,cash_flow
+What were the major cash flow movements from 11 11 2020 to 11 11 2020?,cash_flow
+Can you detail the cash flow fluctuation from 20 09 2016 to 20 09 2016?,cash_flow
+What was the impact on cash reserves from 09 06 2018 to 09 06 2018?,cash_flow
+What were the cash flow entries from 17 06 2011 to 17 06 2011?,cash_flow
+What was the final cash position from 14 03 2019 to 14 03 2019?,cash_flow
+How did financial operations affect cash flow from 24 03 2016 to 24 03 2016?,cash_flow
+What was the overall cash flow assessment from 27 11 2018 to 27 11 2018?,cash_flow
+What were the cash flow outflows and inflows from 15 03 2012 to 15 03 2012?,cash_flow
+What was the cash flow for the business from 02 2020 to 09 2022?,cash_flow
+How did the cash flow improve from 07 2022 to 11 2022?,cash_flow
+What’s the net cash flow for the initiative from 03 2018 to 10 2020?,cash_flow
+What were the significant changes in cash flow between 04 2015 and 07 2018?,cash_flow
+What was the total cash flow for the department from 05 2011 to 11 2017?,cash_flow
+Can you analyze the cash flow from 03 2019 to 01 2020?,cash_flow
+How did our cash flow vary between 04 2015 and 10 2017?,cash_flow
+What was the impact on cash flow from 08 2015 to 10 2016?,cash_flow
+What were the cash flow trends from 04 2010 to 04 2018?,cash_flow
+How did the cash inflow change from 08 2011 to 09 2012?,cash_flow
+What was the cash outflow for the company from 12 2020 to 04 2021?,cash_flow
+What was the effect on cash flow between 08 2016 and 12 2021?,cash_flow
+Can you report the cash flow for the period from 03 2011 to 07 2012?,cash_flow
+What’s the summarized cash flow from 12 2018 to 07 2020?,cash_flow
+How did the cash flow change from 08 2017 to 08 2020?,cash_flow
+What was the quarterly cash flow from 10 2014 to 09 2022?,cash_flow
+What were the cash flow activities from 08 2010 to 01 2013?,cash_flow
+Analyze the changes in cash flow from 06 2016 to 09 2020?,cash_flow
+Report the cash flow for the business activities between 06 2019 and 10 2019?,cash_flow
+What were the financial changes in cash flow from 09 2020 to 06 2022?,cash_flow
+How did operational cash flow evolve from 09 2018 to 10 2019?,cash_flow
+What were the major cash flow movements from 01 2019 to 12 2022?,cash_flow
+Can you detail the cash flow fluctuation from 07 2022 to 09 2022?,cash_flow
+What was the impact on cash reserves from 01 2019 to 09 2022?,cash_flow
+What were the cash flow entries from 02 2014 to 06 2020?,cash_flow
+What was the final cash position from 08 2021 to 12 2021?,cash_flow
+How did financial operations affect cash flow from 03 2020 to 01 2022?,cash_flow
+What was the overall cash flow assessment from 06 2014 to 12 2016?,cash_flow
+What were the cash flow outflows and inflows from 07 2020 to 11 2020?,cash_flow
+What’s the comprehensive cash flow analysis from 10 2020 to 03 2021?,cash_flow
+What was the cash flow for the business from 2010 to 2016?,cash_flow
+How did the cash flow improve from 2013 to 2013?,cash_flow
+What’s the net cash flow for the initiative from 2012 to 2015?,cash_flow
+What were the significant changes in cash flow between 2015 and 2020?,cash_flow
+What was the total cash flow for the department from 2011 to 2015?,cash_flow
+Can you analyze the cash flow from 2013 to 2020?,cash_flow
+How did our cash flow vary between 2013 and 2014?,cash_flow
+What was the impact on cash flow from 2014 to 2018?,cash_flow
+What were the cash flow trends from 2021 to 2022?,cash_flow
+How did the cash inflow change from 2014 to 2018?,cash_flow
+What was the cash outflow for the company from 2016 to 2017?,cash_flow
+What was the effect on cash flow between 2020 and 2022?,cash_flow
+Can you report the cash flow for the period from 2013 to 2021?,cash_flow
+What’s the summarized cash flow from 2013 to 2015?,cash_flow
+How did the cash flow change from 2018 to 2021?,cash_flow
+What was the quarterly cash flow from 2019 to 2022?,cash_flow
+What were the cash flow activities from 2016 to 2022?,cash_flow
+Analyze the changes in cash flow from 2014 to 2017?,cash_flow
+Report the cash flow for the business activities between 2013 and 2020?,cash_flow
+What were the financial changes in cash flow from 2014 to 2016?,cash_flow
+How did operational cash flow evolve from 2012 to 2019?,cash_flow
+What were the major cash flow movements from 2012 to 2014?,cash_flow
+Can you detail the cash flow fluctuation from 2020 to 2022?,cash_flow
+What was the impact on cash reserves from 2014 to 2019?,cash_flow
+What were the cash flow entries from 2020 to 2022?,cash_flow
+What was the final cash position from 2012 to 2014?,cash_flow
+How did financial operations affect cash flow from 2013 to 2022?,cash_flow
+What was the overall cash flow assessment from 2010 to 2016?,cash_flow
+What were the cash flow outflows and inflows from 2020 to 2022?,cash_flow
+What’s the comprehensive cash flow analysis from 2011 to 2017?,cash_flow
+How much cash did we generate from sales in 15 02 2021?,cash_flow
+Can you calculate the net cash flow for 05 03 2020?,cash_flow
+What were the major cash outflows for the company during the fiscal day 23 02 2021?,cash_flow
+What was the cash flow impact of our investment activities in 04 11 2021?,cash_flow
+Can you provide an analysis of the operating cash flow for 20 02 2020?,cash_flow
+How much did we spend on operating expenses in the 24 02 2022?,cash_flow
+What were the cash inflows and outflows for the 12 08 2022?,cash_flow
+How did the cash inflow change in 12 08 2020?,cash_flow
+What was the quarterly cash flow for 28 08 2021?,cash_flow
+Can you summarize the cash flow for 30 12 2021?,cash_flow
+Analyze the changes in cash flow for 10 08 2021?,cash_flow
+What were the financial changes in cash flow for 10 10 2022?,cash_flow
+How did operational cash flow evolve in 27 10 2022?,cash_flow
+What were the major cash flow movements in 09 08 2022?,cash_flow
+Can you detail the cash flow fluctuation in 28 05 2021?,cash_flow
+What were the cash flow activities for 23 02 2022?,cash_flow
+What were the cash flow trends in 24 07 2021?,cash_flow
+What was the net cash flow for the period of 23 08 2021?,cash_flow
+What was the impact on cash reserves in 19 10 2020?,cash_flow
+What were the cash flow entries in 16 01 2022?,cash_flow
+How did financial operations affect cash flow in 28 04 2022?,cash_flow
+What was the cash flow assessment for 03 11 2021?,cash_flow
+Can you report the cash flow for the period of 05 02 2020?,cash_flow
+What’s the net cash flow analysis for 06 08 2021?,cash_flow
+How did our cash position change in 27 12 2020?,cash_flow
+What was the cash flow from operating activities in 05 06 2022?,cash_flow
+What were the primary cash inflows in 08 04 2021?,cash_flow
+How much did we earn from investments in 20 05 2020?,cash_flow
+What were the cash flow expenses in 15 06 2022?,cash_flow
+What’s the cash flow summary for 19 09 2021?,cash_flow
+How much cash did we generate from sales in 29 10 2020?,cash_flow
+Can you calculate the net cash flow for 10 07 2020?,cash_flow
+What were the major cash outflows for the company during the fiscal year 20 03 2022?,cash_flow
+What was the cash flow impact of our investment activities in 20 06 2022?,cash_flow
+Can you provide an analysis of the operating cash flow for 17 02 2022?,cash_flow
+How much did we spend on operating expenses in the 03 05 2021?,cash_flow
+What were the cash inflows and outflows for the 06 09 2022?,cash_flow
+How did the cash inflow change in 26 09 2021?,cash_flow
+What was the quarterly cash flow for 25 02 2020?,cash_flow
+Can you summarize the cash flow for 02 12 2021?,cash_flow
+Analyze the changes in cash flow for 03 12 2020?,cash_flow
+What were the financial changes in cash flow for 16 09 2022?,cash_flow
+How did operational cash flow evolve in 11 10 2020?,cash_flow
+What were the major cash flow movements in 15 06 2020?,cash_flow
+Can you detail the cash flow fluctuation in 05 10 2020?,cash_flow
+What were the cash flow activities for 12 05 2022?,cash_flow
+What were the cash flow trends in 28 11 2021?,cash_flow
+What was the net cash flow for the period of 20 12 2020?,cash_flow
+What was the impact on cash reserves in 29 09 2022?,cash_flow
+What were the cash flow entries in 01 07 2021?,cash_flow
+How did financial operations affect cash flow in 13 11 2020?,cash_flow
+What was the cash flow assessment for 03 10 2020?,cash_flow
+Can you report the cash flow for the period of 31 01 2022?,cash_flow
+What’s the net cash flow analysis for 30 06 2022?,cash_flow
+How did our cash position change in 05 09 2022?,cash_flow
+What was the cash flow from operating activities in 20 03 2021?,cash_flow
+What were the primary cash inflows in 31 08 2021?,cash_flow
+How much did we earn from investments in 20 04 2021?,cash_flow
+What were the cash flow expenses in 03 05 2021?,cash_flow
+What’s the cash flow summary for 08 09 2021?,cash_flow
+How much cash did we generate from sales in the last 8 day,cash_flow
+What were the major cash outflows in the last 3 day,cash_flow
+Can you calculate the net cash flow for the past 5 day,cash_flow
+How did our cash flow change over the last 2 day,cash_flow
+What was the impact on cash flow in the last 10 day,cash_flow
+What were the cash inflows and outflows for the last 4 day,cash_flow
+How much did we spend on operating expenses in the last 3 day,cash_flow
+Can you provide an analysis of the cash flow for the last 5 day,cash_flow
+How did the cash inflow change in the past 6 day,cash_flow
+What was the net cash flow for the last 3 day,cash_flow
+What were the major cash outflows in the previous 7 day,cash_flow
+Can you calculate the net cash flow for the last 7 day,cash_flow
+How did our cash flow change over the past 10 day,cash_flow
+What was the impact on cash flow in the last 3 day,cash_flow
+How much did we spend on operating expenses in the last 4 day,cash_flow
+Can you provide an analysis of the cash flow for the past 7 day,cash_flow
+How did the cash inflow change in the last 9 day,cash_flow
+What was the net cash flow for the past 8 day,cash_flow
+How much cash was generated from sales in the previous 6 day,cash_flow
+What were the major cash outflows in the last 10 day,cash_flow
+Can you calculate the net cash flow for the past 3 day,cash_flow
+How did our cash flow change over the last 6 day,cash_flow
+What was the impact on cash flow in the last 8 day,cash_flow
+What were the cash inflows and outflows for the past 4 day,cash_flow
+How much did we spend on operating expenses in the previous 9 day,cash_flow
+Can you provide an analysis of the cash flow for the last 4 day,cash_flow
+How did the cash inflow change in the past 10 day,cash_flow
+What was the net cash flow for the last 5 day,cash_flow
+How much cash did we generate from sales in the last 10 months,cash_flow
+What were the major cash outflows in the last 2 months,cash_flow
+Can you calculate the net cash flow for the past 7 months,cash_flow
+How did our cash flow change over the last 5 months,cash_flow
+What was the impact on cash flow in the last 3 months,cash_flow
+What were the cash inflows and outflows for the last 10 months,cash_flow
+How much did we spend on operating expenses in the last 6 months,cash_flow
+Can you provide an analysis of the cash flow for the last 5 months,cash_flow
+How did the cash inflow change in the past 8 months,cash_flow
+What was the net cash flow for the last 9 months,cash_flow
+How much cash was generated from sales in the past 9 months,cash_flow
+What were the major cash outflows in the previous 7 months,cash_flow
+Can you calculate the net cash flow for the last 3 months,cash_flow
+How did our cash flow change over the past 5 months,cash_flow
+What was the impact on cash flow in the last 2 months,cash_flow
+What were the cash inflows and outflows for the past 10 months,cash_flow
+How much did we spend on operating expenses in the last 5 months,cash_flow
+Can you provide an analysis of the cash flow for the past 9 months,cash_flow
+How did the cash inflow change in the last 6 months,cash_flow
+What was the net cash flow for the past 8 months,cash_flow
+How much cash was generated from sales in the previous 2 months,cash_flow
+What were the major cash outflows in the last 3 months,cash_flow
+Can you calculate the net cash flow for the past 7 months,cash_flow
+How did our cash flow change over the last 8 months,cash_flow
+What was the impact on cash flow in the last 6 months,cash_flow
+What were the cash inflows and outflows for the past 6 months,cash_flow
+How much did we spend on operating expenses in the previous 4 months,cash_flow
+Can you provide an analysis of the cash flow for the last 8 months,cash_flow
+How did the cash inflow change in the past 7 months,cash_flow
+What was the net cash flow for the last 6 months,cash_flow
+What were the major cash outflows during the past 8 years,cash_flow
+Can you determine the net cash flow for the previous 10 years,cash_flow
+How did our cash flow trends change over the last 7 years,cash_flow
+What was the effect on cash flow over the past 5 years,cash_flow
+Can you summarize the cash inflows and outflows for the last 3 years,cash_flow
+How much was spent on operating costs over the last 6 years,cash_flow
+Could you provide an analysis of the cash flow in the previous 6 years,cash_flow
+How has the cash inflow evolved over the past 2 years,cash_flow
+What is the net cash flow recorded during the last 8 years,cash_flow
+How much cash was generated from sales over the previous 9 years,cash_flow
+What were the major expenses during the past 8 years,cash_flow
+Can you calculate the net cash flow for the last 5 years,cash_flow
+How did the cash flow pattern shift in the past 6 years,cash_flow
+What were the key inflows and outflows of cash in the previous 5 years,cash_flow
+How much did we allocate to operating expenses in the last 3 years,cash_flow
+Could you analyze the cash flow for the past 3 years,cash_flow
+How did the cash inflows fluctuate during the previous 6 years,cash_flow
+What was the recorded net cash flow over the last 6 years,cash_flow
+How much cash was generated from sales in the past 9 years,cash_flow
+What were the significant outflows of cash over the last 4 years,cash_flow
+Can you provide a summary of the net cash flow for the previous 10 years,cash_flow
+How have cash flow trends shifted in the past 3 years,cash_flow
+What were the primary impacts on cash flow over the last 5 years,cash_flow
+Can you summarize the cash inflows and outflows for the past 7 years,cash_flow
+How much did we spend on operations in the last 4 years,cash_flow
+Could you provide a detailed analysis of the cash flow for the past 2 years,cash_flow
+How did the cash inflow change over the last 9 years,cash_flow
+What was the net cash flow for the past 5 years,cash_flow
+How do I modify my profile pic?,profile_pics
+How can we change our profile image?,profile_pics
+What's the process to update one's profile photo?,profile_pics
+How does one go about editing their profile picture?,profile_pics
+Can you tell me how I might alter my profile image?,profile_pics
+What are the steps to revise your profile pic?,profile_pics
+How can somebody update his profile photo?,profile_pics
+How do I adjust my profile picture?,profile_pics
+How can they change their profile pic?,profile_pics
+What's the method to update my profile image?,profile_pics
+How should you edit your profile photo?,profile_pics
+How might I modify my profile picture?,profile_pics
+How can we alter our profile photo?,profile_pics
+What's the way to edit my profile pic?,profile_pics
+How do I tweak my profile picture?,profile_pics
+How can one modify his profile photo?,profile_pics
+What are the instructions to update your profile image?,profile_pics
+How might someone edit her profile picture?,profile_pics
+How do you change your profile picture?,profile_pics
+Can you guide me on updating my profile photo?,profile_pics
+Where can I locate the expense tracking function?,find_expense_tracking
+How do I access the feature for tracking expenses?,find_expense_tracking
+Where might one find the expense tracking tool?,find_expense_tracking
+How can I find the expense tracking option?,find_expense_tracking
+Where do we locate the expense tracking capability?,find_expense_tracking
+How does one access the expense tracking section?,find_expense_tracking
+Where's the expense tracking feature located?,find_expense_tracking
+How can they find the expense tracking resource?,find_expense_tracking
+Where do I go to access the expense tracking function?,find_expense_tracking
+Where is the expense tracking feature found?,find_expense_tracking
+How should I locate the expense tracking tool?,find_expense_tracking
+How can we access the expense tracking feature?,find_expense_tracking
+Where might someone find the expense tracking capability?,find_expense_tracking
+How do you find the expense tracking option?,find_expense_tracking
+Where's the section for tracking expenses?,find_expense_tracking
+How can I navigate to the expense tracking tool?,find_expense_tracking
+Where should I go to find the expense tracking function?,find_expense_tracking
+How might they locate the expense tracking feature?,find_expense_tracking
+What's the way to access the expense tracking tool?,find_expense_tracking
+Where do I locate the feature for tracking expenses?,find_expense_tracking
+How do I personalize the financial dashboard?,costume_dashboard_help_help
+Where can I modify the financial dashboard?,costume_dashboard_help
+What are the steps to tailor the financial dashboard?,costume_dashboard_help
+How does one customize their financial dashboard?,costume_dashboard_help
+How might I adjust my financial dashboard settings?,costume_dashboard_help
+What's the method to edit the financial dashboard?,costume_dashboard_help
+How can we change the financial dashboard?,costume_dashboard_help
+How does someone tweak their financial dashboard?,costume_dashboard_help
+Where can one find the option to customize the financial dashboard?,costume_dashboard_help
+How should I go about customizing my financial dashboard?,costume_dashboard_help
+What's the way to personalize the financial dashboard?,costume_dashboard_help
+How might you modify your financial dashboard?,costume_dashboard_help
+What's the process to adjust the financial dashboard?,costume_dashboard_help
+How can they edit their financial dashboard?,costume_dashboard_help
+Where's the option to customize the financial dashboard?,costume_dashboard_help
+How can we tailor the financial dashboard?,costume_dashboard_help
+How does one adjust their financial dashboard settings?,costume_dashboard_help
+What’s the method to personalize the financial dashboard?,costume_dashboard_help
+How might I alter my financial dashboard settings?,costume_dashboard_help
+How do you customize your financial dashboard?,costume_dashboard_help
+How can I create a financial report?,financial_report_help
+What are the steps to produce a financial report?,financial_report_help
+How do we generate a financial statement?,financial_report_help
+What's the method to make a financial report?,financial_report_help
+How does one compile a financial report?,financial_report_help
+How can I put together a financial report?,financial_report_help
+How might I draft a financial statement?,financial_report_help
+What's the process for creating a financial report?,financial_report_help
+How do I prepare a financial report?,financial_report_help
+How can we formulate a financial report?,financial_report_help
+What's the way to generate a financial report?,financial_report_help
+How should I go about making a financial report?,financial_report_help
+How might someone produce a financial statement?,financial_report_help
+What are the instructions to create a financial report?,financial_report_help
+How do you generate a financial report?,financial_report_help
+Where can I find the option to make a financial statement?,financial_report_help
+How can one develop a financial report?,financial_report_help
+What's the procedure for putting together a financial report?,financial_report_help
+How do I create a financial report from scratch?,financial_report_help
+How should one go about generating a financial statement?,financial_report_help
+How can I upload a file for analysis?,upload_file_analysis_help
+What are the steps to upload a file for analysis?,upload_file_analysis_help
+Can you help me upload a file for analysis?,upload_file_analysis_help
+How do I go about uploading a file for analysis?,upload_file_analysis_help
+How might I upload a file for analysis?,upload_file_analysis_help
+Could you assist me with uploading a file for analysis?,upload_file_analysis_help
+What’s the method to upload a file for analysis?,upload_file_analysis_help
+How should I upload a file for analysis?,upload_file_analysis_help
+Can you walk me through uploading a file for analysis?,upload_file_analysis_help
+Where can I find instructions to upload a file for analysis?,upload_file_analysis_help
+How do we upload a file for analysis?,upload_file_analysis_help
+What’s the process for uploading a file for analysis?,upload_file_analysis_help
+Can you show me how to upload a file for analysis?,upload_file_analysis_help
+How does one upload a file for analysis?,upload_file_analysis_help
+How can one upload a file for analysis?,upload_file_analysis_help
+Could you guide me on uploading a file for analysis?,upload_file_analysis_help
+How do you upload a file for analysis?,upload_file_analysis_help
+Can you explain how to upload a file for analysis?,upload_file_analysis_help
+How can I upload my file for analysis?,upload_file_analysis_help
+Where do I go to upload a file for analysis?,upload_file_analysis_help
+How much did we spend on marketing expenses in 08 01 2011?,expenses
+Can you calculate the total travel expenses for 28 03 2017?,expenses
+What were the significant operational expenses during 08 10 2017?,expenses
+Can you provide a breakdown of the utility expenses for 20 04 2018?,expenses
+How much did we spend on salaries and wages in 04 05 2012?,expenses
+What was the total expenditure on office supplies in 09 06 2020?,expenses
+What were the advertising expenses for the month of 08 04 2010?,expenses
+How much did we spend on maintenance and repairs during 08 05 2018?,expenses
+What was the total cost of goods sold in 24 01 2011?,expenses
+Can you summarize the rent expenses for 19 11 2012?,expenses
+How much did we allocate for professional services in 17 07 2013?,expenses
+What were the total research and development expenses in 29 09 2012?,expenses
+Can you provide a detailed report on the insurance expenses for 01 05 2019?,expenses
+What was the total amount spent on software and subscriptions in 24 08 2014?,expenses
+How much did we invest in employee training during 15 12 2017?,expenses
+What were the transportation expenses for 30 01 2020?,expenses
+How much did we pay for legal fees in 16 04 2018?,expenses
+Can you calculate the total expenses for office furniture in 29 03 2015?,expenses
+What was the expenditure on IT infrastructure for 11 09 2015?,expenses
+How much did we spend on utilities in 10 06 2016?,expenses
+What were the healthcare expenses for employees in 17 01 2016?,expenses
+Can you summarize the food and beverage expenses for 25 09 2011?,expenses
+What was the total cost of promotional activities in 16 05 2020?,expenses
+How much did we spend on equipment purchases during 04 11 2020?,expenses
+What were the travel and entertainment expenses in 23 04 2014?,expenses
+Can you provide a report on the charitable donations made in 19 10 2018?,expenses
+How much did we pay for licenses and permits in 26 08 2013?,expenses
+What were the expenses for office utilities in 03 02 2014?,expenses
+How much did we spend on marketing campaigns in 05 11 2019?,expenses
+Can you calculate the expenses for corporate events in 17 09 2017?,expenses
+How much did we spend on marketing expenses in 27 09 2021?,expenses
+Can you calculate the total travel expenses for 13 12 2019?,expenses
+What were the significant operational expenses during 04 12 2013?,expenses
+Can you provide a breakdown of the utility expenses for 23 06 2021?,expenses
+How much did we spend on salaries and wages in 25 07 2017?,expenses
+What was the total expenditure on office supplies in 27 12 2021?,expenses
+What were the advertising expenses for the month of 26 08 2013?,expenses
+How much did we spend on maintenance and repairs during 15 01 2013?,expenses
+What was the total cost of goods sold in 24 09 2013?,expenses
+Can you summarize the rent expenses for 29 11 2017?,expenses
+How much did we allocate for professional services in 28 07 2021?,expenses
+What were the total research and development expenses in 18 09 2019?,expenses
+Can you provide a detailed report on the insurance expenses for 26 10 2013?,expenses
+What was the total amount spent on software and subscriptions in 04 04 2017?,expenses
+How much did we invest in employee training during 11 03 2016?,expenses
+What were the transportation expenses for 25 11 2020?,expenses
+How much did we pay for legal fees in 18 03 2014?,expenses
+Can you calculate the total expenses for office furniture in 11 05 2011?,expenses
+What was the expenditure on IT infrastructure for 14 11 2019?,expenses
+How much did we spend on utilities in 03 12 2013?,expenses
+What were the healthcare expenses for employees in 26 12 2014?,expenses
+Can you summarize the food and beverage expenses for 01 07 2013?,expenses
+What was the total cost of promotional activities in 22 01 2020?,expenses
+How much did we spend on equipment purchases during 23 01 2016?,expenses
+What were the travel and entertainment expenses in 11 07 2016?,expenses
+Can you provide a report on the charitable donations made in 19 10 2019?,expenses
+How much did we pay for licenses and permits in 01 10 2019?,expenses
+What were the expenses for office utilities in 18 02 2010?,expenses
+How much did we spend on marketing campaigns in 02 12 2016?,expenses
+Can you calculate the expenses for corporate events in 21 07 2022?,expenses
+What was the total expenditure on employee benefits in 03 2022?,expenses
+Can you provide a summary of office rental expenses for 06 2018?,expenses
+How much did we spend on IT support services in 04 2017?,expenses
+What were the major expenses for facility management in 11 2018?,expenses
+Can you calculate the total advertising expenses for 07 2010?,expenses
+What was the cost of training programs during 04 2010?,expenses
+How much did we allocate for hardware purchases in 11 2015?,expenses
+What were the expenses for company events in 03 2013?,expenses
+Can you detail the transportation costs for 03 2011?,expenses
+What was the expenditure on marketing materials in 01 2018?,expenses
+How much did we spend on subscription services in 05 2022?,expenses
+Can you provide an analysis of consulting fees for 02 2012?,expenses
+What were the repair and maintenance costs in 05 2015?,expenses
+How much did we pay for utility bills in 07 2015?,expenses
+What were the costs associated with legal proceedings in 04 2012?,expenses
+Can you summarize the travel expenses for 07 2015?,expenses
+How much did we invest in new software during 02 2022?,expenses
+What was the expenditure on office refurbishment in 08 2010?,expenses
+How much did we spend on employee wellness programs in 03 2012?,expenses
+What were the expenses for external audits in 03 2017?,expenses
+Can you calculate the total cost of facility rentals for 09 2017?,expenses
+What were the major costs for marketing campaigns in 11 2020?,expenses
+How much did we allocate for research projects in 05 2012?,expenses
+Can you summarize the healthcare expenses for 07 2021?,expenses
+What was the total investment in infrastructure during 09 2016?,expenses
+How much did we spend on recruitment activities in 05 2014?,expenses
+What were the transportation allowances for 09 2014?,expenses
+Can you provide a detailed report on hospitality expenses for 03 2012?,expenses
+How much did we allocate for security services in 06 2013?,expenses
+What were the expenses related to office supplies in 02 2011?,expenses
+How much did we spend on employee bonuses in 2017?,expenses
+Can you calculate the total healthcare costs for 2012?,expenses
+What were the significant expenses for office maintenance in 2015?,expenses
+Can you provide a breakdown of travel allowances for 2019?,expenses
+How much did we spend on IT upgrades in 2011?,expenses
+What was the total expenditure on company retreats in 2010?,expenses
+What were the professional fees paid in 2014?,expenses
+How much did we spend on energy bills during 2015?,expenses
+What was the total cost for employee uniforms in 2014?,expenses
+Can you summarize the expenses for office cleaning in 2014?,expenses
+How much did we allocate for software licenses in 2016?,expenses
+What were the total consulting fees in 2020?,expenses
+Can you provide a detailed report on transportation allowances for 2011?,expenses
+What was the total amount spent on client entertainment in 2017?,expenses
+How much did we invest in new equipment during 2012?,expenses
+What were the expenses for office relocation in 2014?,expenses
+How much did we pay for utility services in 2019?,expenses
+Can you calculate the total advertising costs for 2014?,expenses
+What was the expenditure on office rent for 2013?,expenses
+How much did we spend on employee engagement activities in 2018?,expenses
+What were the training and development expenses in 2021?,expenses
+Can you summarize the expenses for promotional events in 2020?,expenses
+What was the total cost of external partnerships in 2022?,expenses
+How much did we spend on employee benefits during 2017?,expenses
+What were the office supply expenses for 2018?,expenses
+Can you provide a report on the research expenses for 2018?,expenses
+How much did we allocate for safety measures in 2015?,expenses
+What were the expenses related to company vehicles in 2013?,expenses
+How much did we spend on communication services in 2014?,expenses
+Can you calculate the expenses for facility management in 2019?,expenses
+What is the projected profit for 12 02 2016?,profit_prediction
+Can you predict the profit for the period of 08 03 2015?,profit_prediction
+What are the profit forecasts for 21 11 2019?,profit_prediction
+Can you provide a profit prediction for 02 08 2011?,profit_prediction
+What is the expected profit for the month of 03 03 2022?,profit_prediction
+How much profit is predicted for 28 01 2017?,profit_prediction
+What is the anticipated profit for 08 12 2010?,profit_prediction
+Can you give a profit estimation for 22 12 2022?,profit_prediction
+What is the projected profit margin for 30 07 2018?,profit_prediction
+What is the expected profitability for 02 01 2012?,profit_prediction
+How much profit do we anticipate for 05 01 2020?,profit_prediction
+What are the predicted earnings for 08 10 2016?,profit_prediction
+Can you forecast the profit for 10 03 2019?,profit_prediction
+What is the profit outlook for 11 11 2017?,profit_prediction
+What is the profit expectation for 30 09 2018?,profit_prediction
+How much profit is forecasted for 23 03 2010?,profit_prediction
+What is the projected revenue for 28 03 2010?,profit_prediction
+What is the expected income for 11 02 2013?,profit_prediction
+Can you provide an estimate of profit for 18 03 2017?,profit_prediction
+What are the predicted profit figures for 23 08 2010?,profit_prediction
+What is the anticipated revenue for 24 05 2011?,profit_prediction
+What is the profit projection for 31 12 2010?,profit_prediction
+Can you calculate the expected profit for 22 04 2020?,profit_prediction
+What is the profit prediction for 02 08 2020?,profit_prediction
+What is the revenue forecast for 20 06 2022?,profit_prediction
+What are the expected earnings for 16 02 2021?,profit_prediction
+How much revenue do we expect for 07 09 2019?,profit_prediction
+What is the expected profit growth for 22 08 2022?,profit_prediction
+What is the anticipated net profit for 22 02 2011?,profit_prediction
+Can you provide a forecast of earnings for 19 09 2020?,profit_prediction
+What is the forecasted profit for 10 2015?,profit_prediction
+How much profit do we expect to generate in 07 2018?,profit_prediction
+What are the projected earnings for 10 2013?,profit_prediction
+Can you estimate the profit for the period of 11 2021?,profit_prediction
+What is the anticipated net income for 09 2019?,profit_prediction
+How much revenue do we forecast for 09 2021?,profit_prediction
+What are the profit predictions for 07 2013?,profit_prediction
+What is the estimated profit margin for 09 2019?,profit_prediction
+Can you provide the expected profit for 10 2019?,profit_prediction
+How much profit is forecasted for the month of 05 2015?,profit_prediction
+What is the projected net revenue for 09 2021?,profit_prediction
+What are the expected profits for 07 2019?,profit_prediction
+What is the predicted profit for 12 2018?,profit_prediction
+Can you forecast the earnings for 12 2015?,profit_prediction
+What is the anticipated profitability for 12 2011?,profit_prediction
+How much net profit do we expect for 08 2020?,profit_prediction
+What is the projected income for 03 2012?,profit_prediction
+What is the profit outlook for 05 2021?,profit_prediction
+Can you provide an estimate of earnings for 12 2010?,profit_prediction
+What is the expected revenue for 10 2014?,profit_prediction
+How much profit do we predict for 03 2011?,profit_prediction
+What are the estimated earnings for 06 2015?,profit_prediction
+What is the profit forecast for 12 2015?,profit_prediction
+What are the predicted revenue figures for 02 2012?,profit_prediction
+What is the expected net income for 03 2014?,profit_prediction
+How much do we anticipate earning in 03 2019?,profit_prediction
+What is the revenue projection for 11 2013?,profit_prediction
+Can you estimate the net profit for 10 2014?,profit_prediction
+What is the projected earnings for 04 2016?,profit_prediction
+How much net revenue do we forecast for 03 2019?,profit_prediction
+What is the anticipated profit growth for 2019?,profit_prediction
+How much profit do we expect to generate in 2021?,profit_prediction
+Can you estimate the profit margin for 2011?,profit_prediction
+What is the projected net income for 2018?,profit_prediction
+How much revenue are we forecasting for 2012?,profit_prediction
+What are the expected profit margins for 2011?,profit_prediction
+Can you provide a projection of profits for 2014?,profit_prediction
+What is the estimated revenue for 2015?,profit_prediction
+How much profit do we expect to earn in 2018?,profit_prediction
+What are the projected earnings for the month of 2021?,profit_prediction
+What is the anticipated net revenue for 2013?,profit_prediction
+Can you calculate the expected profits for 2011?,profit_prediction
+What is the profit forecast for the period of 2012?,profit_prediction
+How much net profit do we anticipate for 2022?,profit_prediction
+What is the projected profit for the year 2017?,profit_prediction
+What are the profit predictions for 2020?,profit_prediction
+Can you estimate the earnings for 2019?,profit_prediction
+What is the expected net profit for 2016?,profit_prediction
+How much do we forecast to earn in 2019?,profit_prediction
+What are the projected profits for the quarter of 2018?,profit_prediction
+Can you provide a profit forecast for 2020?,profit_prediction
+What is the estimated profit for 2012?,profit_prediction
+How much revenue do we anticipate generating in 2021?,profit_prediction
+What are the expected earnings for the month of 2011?,profit_prediction
+Can you calculate the projected profits for 2011?,profit_prediction
+What is the net profit expectation for 2021?,profit_prediction
+How much profit is expected for 2016?,profit_prediction
+What are the anticipated earnings for 2010?,profit_prediction
+Can you forecast the revenue for 2010?,profit_prediction
+What is the revenue projection for 2012?,profit_prediction
